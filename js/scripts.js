@@ -29,6 +29,7 @@ fetch(url)
           <figure>
             <figcaption>${student.fields.Name}</figcaption>
             <p>${student.fields.Emoji}</p>
+            <p>${student.fields.Color}</p>
             <img src="${student.fields.Image[0].url}" alt="${student.fields.Name}">
           </figure>
        `;
