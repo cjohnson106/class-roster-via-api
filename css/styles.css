@@ -2,14 +2,31 @@
 
 body{
     margin: 0;
+    background: #2e2e2d;
 }
 h1{
     font-family: 'Zina-Regular';
     font-size: 80pt;
     text-align: center;
+    margin: 0;
+    padding-top: 2vmin;
+    color: white;
 }
 h2{
     font-family: 'ClashGrotesk-Semibold';
     font-size: 40pt;
     text-align: center;
+    margin: 0;
+    padding-top: 3vmin;
+    color: #a5d493;
+}
+figcaption{
+    font-family: 'ClashGrotesk-light';
+    font-size: 20pt;
+    color: #a5d493;
+}
+p{
+    font-family: 'ClashGrotesk-Extralight';
+    font-size: 12pt;
+    color: white;
 }
