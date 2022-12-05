@@ -18,7 +18,7 @@ API endpoint for the _Collection_ for Student submitted data.
 ## Sources
 List your sources here
 
-[Font Share](https://www.fontshare.com/fonts/zina)
+[Font Share](https://www.fontshare.com/fonts/boska)
 [Font Share](https://www.fontshare.com/fonts/clash-grotesk)
 [Favicons](https://favicon.io/favicon-converter/)
 [DESN FMLY logo](https://www.notion.so/The-DESN-FMLY-Design-System-acad9aa587e143ba863ede0dcb172c66)
